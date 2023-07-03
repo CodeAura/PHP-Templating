@@ -14,6 +14,7 @@ require "content.php";
     <h2><?php echo $subname; ?></h2>
 
     <img src="<?php echo $img; ?>" alt="Gehenkt">
+    <p>Lorem ipsum dolor sit amet. Id sint sequi qui vitae cumque aut excepturi deleniti 33 facilis dolores. Sit doloremque eveniet id ratione provident et esse quod et tempora excepturi id nobis rerum? Et pariatur voluptate aut fugit necessitatibus ut eveniet consequuntur et harum illo?</p>
 <body>
     
 </body>
